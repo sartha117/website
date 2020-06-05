@@ -47,23 +47,23 @@
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="la.jpg" alt="Los Angeles" width="1100" height="500">
+      <img src="image1.jpg" alt="Mumbai1" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>Los Angeles</h3>
+        <h3>SEASHORE</h3>
         <p>We had such a great time in LA!</p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="chicago.jpg" alt="Chicago" width="1100" height="500">
+      <img src="image2.jpg" alt="Mumbai2" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>Chicago</h3>
+        <h3>CST</h3>
         <p>Thank you, Chicago!</p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="ny.jpg" alt="New York" width="1100" height="500">
+      <img src="image3.jpg" alt="Mumbai3" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>New York</h3>
+        <h3>GATEWAY</h3>
         <p>We love the Big Apple!</p>
       </div>   
     </div>
